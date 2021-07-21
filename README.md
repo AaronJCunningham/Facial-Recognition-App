@@ -1,3 +1,3 @@
-Simple facial recognition app using Tensor and React.
+Simple facial recognition app using Tensor.
 
 Npm Install.
